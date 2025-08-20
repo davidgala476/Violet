@@ -1,0 +1,3 @@
+Para administrar primeor ejecutar el siguiente codigo en terminal para instalar : pip install pyvirtualdisplay
+
+Correr la base de datos los modelos y luego la app
